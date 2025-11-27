@@ -1,4 +1,4 @@
-# Project Name
+# NODE_PRACTTISE_SERVE
 
 This project consists of a static frontend and a mock backend server.
 
