@@ -1,4 +1,4 @@
-# NODE_PRACTTISE_SERVE
+# NODE_PRACTISE_SERVE
 
 This project consists of a static frontend and a mock backend server.
 
